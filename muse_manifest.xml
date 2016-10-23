@@ -1,0 +1,404 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="visionlista1.org" resolutions="1x" timestamp="1477248109741">
+  <folder name="css">
+    <file name="site_global.css" crc="434107181"/>
+    <file name="master_a-master.css" crc="156498982" ref="galería:gestión:historia:semana-de-la-innovación-social:index:marca-la-diferencia:equipo:mateo-kingman---identidad-y-creación-latinoamericana:proyectos:sobre-nosotros:miembros"/>
+    <file name="galer_a.css" crc="415629763" ref="galería"/>
+    <file name="gesti_n.css" crc="3799649251" ref="gestión"/>
+    <file name="historia.css" crc="4136021418" ref="historia"/>
+    <file name="semana-de-la-innovaci_n-social.css" crc="3799649251" ref="semana-de-la-innovación-social"/>
+    <file name="index.css" crc="3884246071" ref="index"/>
+    <file name="marca-la-diferencia.css" crc="3799649251" ref="marca-la-diferencia"/>
+    <file name="equipo.css" crc="3799649251" ref="equipo"/>
+    <file name="mateo-kingman---identidad-y-creaci_n-latinoamericana.css" crc="180336715" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="proyectos.css" crc="316588895" ref="proyectos"/>
+    <file name="sobre-nosotros.css" crc="307281477" ref="sobre-nosotros"/>
+    <file name="miembros.css" crc="401676835" ref="miembros"/>
+  </folder>
+  <folder name="assets">
+    <file name="bite-1.mp3" crc="3809829632" seo="true" mt="1472931152000"/>
+    <file name="bite-2.mp3" crc="4178767169" seo="true" mt="1472931620000"/>
+    <file name="bite-3.mp3" crc="4232593326" seo="true" mt="1472931578000"/>
+    <file name="bite-4.mp3" crc="3900010724" seo="true" mt="1472931120000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:sobre-nosotros:equipo:marca-la-diferencia:mateo-kingman---identidad-y-creación-latinoamericana:miembros:proyectos:historia:gestión:galería:semana-de-la-innovación-social"/>
+    <file name="museutils.js" crc="531812214" ref="index:sobre-nosotros:equipo:marca-la-diferencia:mateo-kingman---identidad-y-creación-latinoamericana:miembros:proyectos:historia:gestión:galería:semana-de-la-innovación-social"/>
+    <file name="whatinput.js" crc="84559013" ref="index:sobre-nosotros:equipo:marca-la-diferencia:mateo-kingman---identidad-y-creación-latinoamericana:miembros:proyectos:historia:gestión:galería:semana-de-la-innovación-social"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:sobre-nosotros:equipo:marca-la-diferencia:mateo-kingman---identidad-y-creación-latinoamericana:miembros:proyectos:historia:gestión:galería:semana-de-la-innovación-social"/>
+    <file name="pie.js" crc="3827607177" ref="index:miembros:proyectos"/>
+    <file name="webpro.js" crc="4156477058" ref="index:mateo-kingman---identidad-y-creación-latinoamericana:proyectos:galería"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index:mateo-kingman---identidad-y-creación-latinoamericana:proyectos:galería"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index:mateo-kingman---identidad-y-creación-latinoamericana:proyectos:galería"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index:mateo-kingman---identidad-y-creación-latinoamericana:proyectos:galería"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index:proyectos"/>
+    <file name="form_check.php" crc="373582055" ref="index"/>
+    <file name="form_throttle.php" crc="211381018" ref="index"/>
+    <file name="form_process.php" crc="6354943" ref="index"/>
+    <file name="form-u32618.php" crc="319888742" ref="index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:sobre-nosotros:equipo:marca-la-diferencia:mateo-kingman---identidad-y-creación-latinoamericana:miembros:proyectos:historia:gestión:galería:semana-de-la-innovación-social"/>
+    <file name="jquery.scrolleffects.js" crc="3975164813" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sobre-nosotros:equipo:marca-la-diferencia:mateo-kingman---identidad-y-creación-latinoamericana:miembros:proyectos:historia:gestión:galería:semana-de-la-innovación-social"/>
+  </folder>
+  <folder name="images">
+    <file name="vision-lista1-favicon.ico" crc="3794915486" ref="index"/>
+    <file name="logo email.png" crc="454477425" seo="true" ref="index:sobre-nosotros:equipo:marca-la-diferencia:mateo-kingman---identidad-y-creación-latinoamericana:miembros:proyectos:historia:gestión:galería:semana-de-la-innovación-social"/>
+    <file name="u27540-4.png" crc="3845611879" ref="index"/>
+    <file name="facebook def 3.png" crc="72758904" ref="index"/>
+    <file name="facebook def.png" crc="367498913" ref="index"/>
+    <file name="twitter-512 (1).gif" crc="195116297" ref="index"/>
+    <file name="twitter-512 (2).gif" crc="527920577" ref="index"/>
+    <file name="insta3.png" crc="384035372" ref="index"/>
+    <file name="insta2.png" crc="3887769702" ref="index"/>
+    <file name="blog 1.png" crc="4092106662" ref="index"/>
+    <file name="blog 2.png" crc="327453992" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:mateo-kingman---identidad-y-creación-latinoamericana:galería"/>
+    <file name="u27581_states.png" crc="4111296041" ref="index"/>
+    <file name="u27581_states-r.png" crc="114315413" ref="index"/>
+    <file name="u937-5.png" crc="460396527" ref="index"/>
+    <file name="francisco orozco.jpg" crc="432507778" seo="true" ref="index"/>
+    <file name="fica-crop-u31336.jpg" crc="3974984182" ref="index"/>
+    <file name="bn-crop-u13861.jpg" crc="4121783362" ref="index"/>
+    <file name="bn-crop-u13246.jpg" crc="400406769" ref="index"/>
+    <file name="u13820-4.png" crc="4292464879" ref="index"/>
+    <file name="u1785-4.png" crc="336420882" ref="index"/>
+    <file name="u14359-4.png" crc="243233194" ref="index"/>
+    <file name="u31343-4.png" crc="4018300554" ref="index"/>
+    <file name="u251-5.png" crc="3766055723" ref="index"/>
+    <file name="dem1.png" crc="263407647" ref="index"/>
+    <file name="dem2.png" crc="294639176" ref="index"/>
+    <file name="proyectos.png" crc="374727553" ref="index"/>
+    <file name="proyectos2.png" crc="391936839" ref="index"/>
+    <file name="historia.png" crc="4221524252" ref="index"/>
+    <file name="historia2.png" crc="438433230" ref="index"/>
+    <file name="gestion.png" crc="121161311" ref="index"/>
+    <file name="gestion2.png" crc="386133420" ref="index"/>
+    <file name="galeria.png" crc="3998787874" ref="index"/>
+    <file name="galeria2.png" crc="232270191" ref="index"/>
+    <file name="portada.jpg" crc="4162303576" seo="true" ref="index:mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="u30994-8.png" crc="4124696853" ref="index"/>
+    <file name="u1759-5.png" crc="459800313" ref="index"/>
+    <file name="u32779-4.png" crc="352117815" ref="index"/>
+    <file name="u30989-4.png" crc="352117815" ref="index"/>
+    <file name="u1760-5.png" crc="3909957941" ref="index"/>
+    <file name="cori-ieu27922-fr.png" crc="3851878068" ref="index"/>
+    <file name="cori.jpg" crc="3954979560" ref="index"/>
+    <file name="carpio-ieu27949-fr.png" crc="269415425" ref="index"/>
+    <file name="carpio.jpg" crc="4006565590" ref="index"/>
+    <file name="mateo-ieu27964-fr.png" crc="281536830" ref="index"/>
+    <file name="mateo.jpg" crc="4148267645" ref="index"/>
+    <file name="test3.jpg" crc="4109969756" ref="index"/>
+    <file name="test4-u1908-fr.jpg" crc="3959146863" ref="index"/>
+    <file name="juandi.jpg" crc="104618413" ref="index"/>
+    <file name="test2.jpg" crc="3857989365" ref="index"/>
+    <file name="test1.jpg" crc="8097575" ref="index"/>
+    <file name="vero.jpg" crc="3759974554" ref="index"/>
+    <file name="ana belen.jpg" crc="327737603" ref="index"/>
+    <file name="francisco orozco-u2041-fr.jpg" crc="3937126784" ref="index"/>
+    <file name="ariel-u2027-fr.jpg" crc="433707882" ref="index"/>
+    <file name="dani r.jpg" crc="276260932" ref="index"/>
+    <file name="miguel-u28042-fr.jpg" crc="3903240805" ref="index"/>
+    <file name="cami oleas-u28066-fr.jpg" crc="216212338" ref="index"/>
+    <file name="comillas.png" crc="4039305443" seo="true" ref="index"/>
+    <file name="portada7.jpg" crc="168796309" ref="index"/>
+    <file name="sec2.jpg" crc="4099415267" ref="index"/>
+    <file name="u32639-5.png" crc="3769883073" ref="index"/>
+    <file name="u32623-17.png" crc="3970403059" ref="index"/>
+    <file name="u32623-17-r.png" crc="165205803" ref="index"/>
+    <file name="u32623-17-m.png" crc="165205803" ref="index"/>
+    <file name="u32623-17-fs.png" crc="404501567" ref="index"/>
+    <file name="sobre-nosotros-favicon.ico" crc="3794915486" ref="sobre-nosotros"/>
+    <file name="u31182-5.png" crc="3914906186" ref="sobre-nosotros"/>
+    <file name="u31136-5.png" crc="3950983940" ref="sobre-nosotros"/>
+    <file name="check-icon.png" crc="4134584060" seo="true" ref="sobre-nosotros"/>
+    <file name="u31140-8.png" crc="3915614783" ref="sobre-nosotros"/>
+    <file name="u31144-7.png" crc="3941839610" ref="sobre-nosotros"/>
+    <file name="u31146-9.png" crc="3894861540" ref="sobre-nosotros"/>
+    <file name="a-master-favicon.ico" crc="3794915486" ref="equipo"/>
+    <file name="dsc_0268.jpg" crc="3919377495" seo="true" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="dsc_0273.jpg" crc="3791198240" seo="true" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="loading.gif" crc="3815509949" ref="mateo-kingman---identidad-y-creación-latinoamericana:galería"/>
+    <file name="u33070-22.png" crc="285942523" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="u33252-5.png" crc="492586705" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="u33262-5.png" crc="4019922768" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="u33272-5.png" crc="3980372216" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="u33282-4.png" crc="469577515" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="u33366-4.png" crc="434314383" ref="mateo-kingman---identidad-y-creación-latinoamericana"/>
+    <file name="test4.jpg" crc="113643683" ref="miembros"/>
+    <file name="u37160-17.png" crc="511590748" ref="miembros"/>
+    <file name="dome s.jpg" crc="4224415506" ref="miembros"/>
+    <file name="u37163-15.png" crc="131964867" ref="miembros"/>
+    <file name="cami oleas.jpg" crc="410230072" ref="miembros"/>
+    <file name="u37166-15.png" crc="13833545" ref="miembros"/>
+    <file name="miguel-ieu37172-fr.png" crc="3814161599" ref="miembros"/>
+    <file name="miguel.jpg" crc="4250589607" ref="miembros"/>
+    <file name="u37169-15.png" crc="3855442101" ref="miembros"/>
+    <file name="ariel.jpg" crc="95789455" ref="miembros"/>
+    <file name="u37255-15.png" crc="4078680169" ref="miembros"/>
+    <file name="francisco orozco-u37195-fr.jpg" crc="4179381359" ref="miembros"/>
+    <file name="u37192-15.png" crc="175669271" ref="miembros"/>
+    <file name="lia.jpg" crc="4221419721" ref="miembros"/>
+    <file name="u37209-15.png" crc="4187362970" ref="miembros"/>
+    <file name="ricardo.jpg" crc="3970647867" ref="miembros"/>
+    <file name="u37235-15.png" crc="3789070567" ref="miembros"/>
+    <file name="ejem-01.jpg" crc="4188806445" ref="proyectos"/>
+    <file name="educacion-01.jpg" crc="3814049691" ref="proyectos"/>
+    <file name="odontologia-01.jpg" crc="3998461703" ref="proyectos"/>
+    <file name="veterinaria.jpg" crc="3817264355" ref="proyectos"/>
+    <file name="derecho-01.jpg" crc="4139594946" ref="proyectos"/>
+    <file name="comunicaicon-01.jpg" crc="335936704" ref="proyectos"/>
+    <file name="14731115_1173769039372022_5228038440924091016_n.jpg" crc="158998372" ref="proyectos"/>
+    <file name="14713739_1173766119372314_3913805617865986592_n.jpg" crc="3933981033" ref="proyectos"/>
+    <file name="u36969-4.png" crc="3943321868" ref="proyectos"/>
+    <file name="u36973-4.png" crc="78356788" ref="proyectos"/>
+    <file name="img_3525.jpg" crc="146764240" seo="true" ref="galería"/>
+    <file name="img_3524.jpg" crc="4290670787" seo="true" ref="galería"/>
+    <file name="img_3547.jpg" crc="3841221731" seo="true" ref="galería"/>
+    <file name="img_3568.jpg" crc="95028448" seo="true" ref="galería"/>
+    <file name="img_3574.jpg" crc="4221535816" seo="true" ref="galería"/>
+    <file name="img_3627.jpg" crc="4275928451" seo="true" ref="galería"/>
+    <file name="img_3644.jpg" crc="4111139259" seo="true" ref="galería"/>
+    <file name="img_3647.jpg" crc="3858259428" seo="true" ref="galería"/>
+    <file name="img_3681.jpg" crc="4049688603" seo="true" ref="galería"/>
+    <file name="img_3726.jpg" crc="115946350" seo="true" ref="galería"/>
+    <file name="img_3808.jpg" crc="407639627" seo="true" ref="galería"/>
+    <file name="img_3838.jpg" crc="215738873" seo="true" ref="galería"/>
+    <file name="img_3855.jpg" crc="140197327" seo="true" ref="galería"/>
+    <file name="img_3872.jpg" crc="427880869" seo="true" ref="galería"/>
+    <file name="img_3930.jpg" crc="3806387303" seo="true" ref="galería"/>
+    <file name="img_3957.jpg" crc="3860209238" seo="true" ref="galería"/>
+    <file name="img_3968.jpg" crc="530893270" seo="true" ref="galería"/>
+    <file name="img_4039.jpg" crc="3991101540" seo="true" ref="galería"/>
+    <file name="img_3525111x74.jpg" crc="70419415" seo="true" ref="galería"/>
+    <file name="img_3524111x74.jpg" crc="310925861" seo="true" ref="galería"/>
+    <file name="img_3547111x74.jpg" crc="4220761204" seo="true" ref="galería"/>
+    <file name="img_3568111x74.jpg" crc="57988920" seo="true" ref="galería"/>
+    <file name="img_3574111x74.jpg" crc="4010930168" seo="true" ref="galería"/>
+    <file name="img_3627111x74.jpg" crc="430473149" seo="true" ref="galería"/>
+    <file name="img_3644130x73.jpg" crc="4198522179" seo="true" ref="galería"/>
+    <file name="img_3647130x73.jpg" crc="3926213892" seo="true" ref="galería"/>
+    <file name="img_3681130x73.jpg" crc="80747666" seo="true" ref="galería"/>
+    <file name="img_3726111x74.jpg" crc="52034073" seo="true" ref="galería"/>
+    <file name="img_3808111x74.jpg" crc="4287258661" seo="true" ref="galería"/>
+    <file name="img_3838111x74.jpg" crc="4110716905" seo="true" ref="galería"/>
+    <file name="img_3855111x74.jpg" crc="4100924074" seo="true" ref="galería"/>
+    <file name="img_3872111x74.jpg" crc="130272576" seo="true" ref="galería"/>
+    <file name="img_3930111x74.jpg" crc="3760008727" seo="true" ref="galería"/>
+    <file name="img_3957111x74.jpg" crc="37330029" seo="true" ref="galería"/>
+    <file name="img_3968111x74.jpg" crc="3888832444" seo="true" ref="galería"/>
+    <file name="img_4039111x74.jpg" crc="335579817" seo="true" ref="galería"/>
+    <file name="54.jpg" crc="500503098" seo="true" ref="galería"/>
+    <file name="1.jpg" crc="445160639" seo="true" ref="galería"/>
+    <file name="2.jpg" crc="251032879" seo="true" ref="galería"/>
+    <file name="4.jpg" crc="117364521" seo="true" ref="galería"/>
+    <file name="5.jpg" crc="3942412866" seo="true" ref="galería"/>
+    <file name="6.jpg" crc="3851466021" seo="true" ref="galería"/>
+    <file name="7.jpg" crc="501890325" seo="true" ref="galería"/>
+    <file name="9.jpg" crc="508043001" seo="true" ref="galería"/>
+    <file name="10.jpg" crc="3886302574" seo="true" ref="galería"/>
+    <file name="11.jpg" crc="3907273005" seo="true" ref="galería"/>
+    <file name="12.jpg" crc="4274067912" seo="true" ref="galería"/>
+    <file name="16.jpg" crc="271882066" seo="true" ref="galería"/>
+    <file name="18.jpg" crc="3781318727" seo="true" ref="galería"/>
+    <file name="22.jpg" crc="340384980" seo="true" ref="galería"/>
+    <file name="23.jpg" crc="234791335" seo="true" ref="galería"/>
+    <file name="24.jpg" crc="50299878" seo="true" ref="galería"/>
+    <file name="25.jpg" crc="221251834" seo="true" ref="galería"/>
+    <file name="27.jpg" crc="4185293761" seo="true" ref="galería"/>
+    <file name="28.jpg" crc="3865762016" seo="true" ref="galería"/>
+    <file name="32.jpg" crc="4094798443" seo="true" ref="galería"/>
+    <file name="35.jpg" crc="503166919" seo="true" ref="galería"/>
+    <file name="36.jpg" crc="224884762" seo="true" ref="galería"/>
+    <file name="42.jpg" crc="78620825" seo="true" ref="galería"/>
+    <file name="43.jpg" crc="3865790589" seo="true" ref="galería"/>
+    <file name="45.jpg" crc="117217492" seo="true" ref="galería"/>
+    <file name="49.jpg" crc="4003380230" seo="true" ref="galería"/>
+    <file name="51.jpg" crc="296371612" seo="true" ref="galería"/>
+    <file name="52.jpg" crc="4228891957" seo="true" ref="galería"/>
+    <file name="55.jpg" crc="439412853" seo="true" ref="galería"/>
+    <file name="54111x84.jpg" crc="3807548611" seo="true" ref="galería"/>
+    <file name="1-crop-u41721.jpg" crc="216259270" ref="galería"/>
+    <file name="2111x74.jpg" crc="78084841" seo="true" ref="galería"/>
+    <file name="4111x74.jpg" crc="4135235694" seo="true" ref="galería"/>
+    <file name="5111x74.jpg" crc="4163360140" seo="true" ref="galería"/>
+    <file name="6111x74.jpg" crc="3935380438" seo="true" ref="galería"/>
+    <file name="7111x74.jpg" crc="4132316095" seo="true" ref="galería"/>
+    <file name="9111x74.jpg" crc="3799252616" seo="true" ref="galería"/>
+    <file name="10111x74.jpg" crc="50905824" seo="true" ref="galería"/>
+    <file name="11111x74.jpg" crc="4094207539" seo="true" ref="galería"/>
+    <file name="12111x74.jpg" crc="392829055" seo="true" ref="galería"/>
+    <file name="16111x74.jpg" crc="3921108414" seo="true" ref="galería"/>
+    <file name="18111x74.jpg" crc="459559977" seo="true" ref="galería"/>
+    <file name="22111x74.jpg" crc="398088203" seo="true" ref="galería"/>
+    <file name="23111x74.jpg" crc="3914880911" seo="true" ref="galería"/>
+    <file name="24111x74.jpg" crc="498901709" seo="true" ref="galería"/>
+    <file name="25111x74.jpg" crc="339870019" seo="true" ref="galería"/>
+    <file name="27-crop-u42041.jpg" crc="394344461" ref="galería"/>
+    <file name="28111x74.jpg" crc="3776608307" seo="true" ref="galería"/>
+    <file name="32111x74.jpg" crc="3877140521" seo="true" ref="galería"/>
+    <file name="35111x74.jpg" crc="4146164603" seo="true" ref="galería"/>
+    <file name="36111x74.jpg" crc="360192360" seo="true" ref="galería"/>
+    <file name="42111x74.jpg" crc="3894303732" seo="true" ref="galería"/>
+    <file name="43111x74.jpg" crc="335431696" seo="true" ref="galería"/>
+    <file name="45111x74.jpg" crc="4159098476" seo="true" ref="galería"/>
+    <file name="49130x73.jpg" crc="3796956305" seo="true" ref="galería"/>
+    <file name="51111x84.jpg" crc="479467730" seo="true" ref="galería"/>
+    <file name="52111x84.jpg" crc="433581949" seo="true" ref="galería"/>
+    <file name="55130x73.jpg" crc="357123781" seo="true" ref="galería"/>
+    <file name="13.jpg" crc="429239656" seo="true" ref="galería"/>
+    <file name="3.jpg" crc="54553365" seo="true" ref="galería"/>
+    <file name="53.jpg" crc="296255155" seo="true" ref="galería"/>
+    <file name="62.jpg" crc="24223796" seo="true" ref="galería"/>
+    <file name="72.jpg" crc="422166464" seo="true" ref="galería"/>
+    <file name="8.jpg" crc="300821591" seo="true" ref="galería"/>
+    <file name="92.jpg" crc="4274405781" seo="true" ref="galería"/>
+    <file name="14.jpg" crc="4015113310" seo="true" ref="galería"/>
+    <file name="17.jpg" crc="105761862" seo="true" ref="galería"/>
+    <file name="182.jpg" crc="3933749178" seo="true" ref="galería"/>
+    <file name="282.jpg" crc="4079923858" seo="true" ref="galería"/>
+    <file name="30.jpg" crc="310060408" seo="true" ref="galería"/>
+    <file name="31.jpg" crc="334798266" seo="true" ref="galería"/>
+    <file name="322.jpg" crc="85152911" seo="true" ref="galería"/>
+    <file name="352.jpg" crc="3966178975" seo="true" ref="galería"/>
+    <file name="362.jpg" crc="249452784" seo="true" ref="galería"/>
+    <file name="44.jpg" crc="386547909" seo="true" ref="galería"/>
+    <file name="452.jpg" crc="3763151370" seo="true" ref="galería"/>
+    <file name="46.jpg" crc="404278385" seo="true" ref="galería"/>
+    <file name="47.jpg" crc="23050260" seo="true" ref="galería"/>
+    <file name="48.jpg" crc="362260013" seo="true" ref="galería"/>
+    <file name="50.jpg" crc="4075960604" seo="true" ref="galería"/>
+    <file name="522.jpg" crc="515110895" seo="true" ref="galería"/>
+    <file name="532.jpg" crc="222661999" seo="true" ref="galería"/>
+    <file name="542.jpg" crc="4173343041" seo="true" ref="galería"/>
+    <file name="61.jpg" crc="182770275" seo="true" ref="galería"/>
+    <file name="622.jpg" crc="157572782" seo="true" ref="galería"/>
+    <file name="68.jpg" crc="3858723849" seo="true" ref="galería"/>
+    <file name="69.jpg" crc="141271925" seo="true" ref="galería"/>
+    <file name="70.jpg" crc="4216137157" seo="true" ref="galería"/>
+    <file name="71.jpg" crc="443070606" seo="true" ref="galería"/>
+    <file name="77.jpg" crc="4023574660" seo="true" ref="galería"/>
+    <file name="79.jpg" crc="74821325" seo="true" ref="galería"/>
+    <file name="80.jpg" crc="465811683" seo="true" ref="galería"/>
+    <file name="86.jpg" crc="283016905" seo="true" ref="galería"/>
+    <file name="87.jpg" crc="4130247185" seo="true" ref="galería"/>
+    <file name="88.jpg" crc="3839475401" seo="true" ref="galería"/>
+    <file name="89.jpg" crc="4274871129" seo="true" ref="galería"/>
+    <file name="922.jpg" crc="168452954" seo="true" ref="galería"/>
+    <file name="99.jpg" crc="3771400463" seo="true" ref="galería"/>
+    <file name="105.jpg" crc="457267339" seo="true" ref="galería"/>
+    <file name="112.jpg" crc="4079540914" seo="true" ref="galería"/>
+    <file name="115.jpg" crc="4095365939" seo="true" ref="galería"/>
+    <file name="116.jpg" crc="39149745" seo="true" ref="galería"/>
+    <file name="1110x73.jpg" crc="4293569035" seo="true" ref="galería"/>
+    <file name="3110x73.jpg" crc="3957901219" seo="true" ref="galería"/>
+    <file name="5110x73.jpg" crc="3851330507" seo="true" ref="galería"/>
+    <file name="6110x73.jpg" crc="3969224933" seo="true" ref="galería"/>
+    <file name="7110x73.jpg" crc="513519943" seo="true" ref="galería"/>
+    <file name="8110x73.jpg" crc="4131590632" seo="true" ref="galería"/>
+    <file name="9110x73.jpg" crc="524621675" seo="true" ref="galería"/>
+    <file name="14110x73.jpg" crc="4215528909" seo="true" ref="galería"/>
+    <file name="17110x73.jpg" crc="3839358893" seo="true" ref="galería"/>
+    <file name="18110x73.jpg" crc="296898047" seo="true" ref="galería"/>
+    <file name="28110x73.jpg" crc="466356236" seo="true" ref="galería"/>
+    <file name="30110x73.jpg" crc="161686353" seo="true" ref="galería"/>
+    <file name="31110x73.jpg" crc="335338640" seo="true" ref="galería"/>
+    <file name="32110x73.jpg" crc="227932224" seo="true" ref="galería"/>
+    <file name="35110x73.jpg" crc="177585909" seo="true" ref="galería"/>
+    <file name="36110x73.jpg" crc="11515757" seo="true" ref="galería"/>
+    <file name="44110x73.jpg" crc="3957227725" seo="true" ref="galería"/>
+    <file name="45110x73.jpg" crc="401777802" seo="true" ref="galería"/>
+    <file name="46110x73.jpg" crc="4022355800" seo="true" ref="galería"/>
+    <file name="47110x73.jpg" crc="4041530727" seo="true" ref="galería"/>
+    <file name="48110x73.jpg" crc="327161734" seo="true" ref="galería"/>
+    <file name="50110x73.jpg" crc="3914817916" seo="true" ref="galería"/>
+    <file name="52110x73.jpg" crc="3803230979" seo="true" ref="galería"/>
+    <file name="53110x73.jpg" crc="48745931" seo="true" ref="galería"/>
+    <file name="54110x73.jpg" crc="3789068525" seo="true" ref="galería"/>
+    <file name="61110x73.jpg" crc="4024272063" seo="true" ref="galería"/>
+    <file name="62110x73.jpg" crc="4261958010" seo="true" ref="galería"/>
+    <file name="68110x73.jpg" crc="3808134671" seo="true" ref="galería"/>
+    <file name="69110x73.jpg" crc="88228286" seo="true" ref="galería"/>
+    <file name="70110x73.jpg" crc="3902539243" seo="true" ref="galería"/>
+    <file name="71110x73.jpg" crc="16044887" seo="true" ref="galería"/>
+    <file name="77110x73.jpg" crc="4190740268" seo="true" ref="galería"/>
+    <file name="79110x73.jpg" crc="3949816790" seo="true" ref="galería"/>
+    <file name="80110x73.jpg" crc="4019891520" seo="true" ref="galería"/>
+    <file name="86110x73.jpg" crc="50253060" seo="true" ref="galería"/>
+    <file name="87110x73.jpg" crc="214326211" seo="true" ref="galería"/>
+    <file name="88110x73.jpg" crc="3891247285" seo="true" ref="galería"/>
+    <file name="89110x73.jpg" crc="3803141976" seo="true" ref="galería"/>
+    <file name="92110x73.jpg" crc="4258065071" seo="true" ref="galería"/>
+    <file name="9998x73.jpg" crc="3903878992" seo="true" ref="galería"/>
+    <file name="105110x73.jpg" crc="32476032" seo="true" ref="galería"/>
+    <file name="11242x73.jpg" crc="4089775014" seo="true" ref="galería"/>
+    <file name="115111x63.jpg" crc="3868839212" seo="true" ref="galería"/>
+    <file name="11642x73.jpg" crc="435909" seo="true" ref="galería"/>
+    <file name="u38909-6.png" crc="4110878525" ref="galería"/>
+    <file name="u38912-6.png" crc="4007040345" ref="galería"/>
+    <file name="15.jpg" crc="3936734268" seo="true" ref="galería"/>
+    <file name="26.jpg" crc="112791267" seo="true" ref="galería"/>
+    <file name="33.jpg" crc="8862088" seo="true" ref="galería"/>
+    <file name="410.jpg" crc="3829495843" seo="true" ref="galería"/>
+    <file name="56.jpg" crc="4260297219" seo="true" ref="galería"/>
+    <file name="102.jpg" crc="3912634355" seo="true" ref="galería"/>
+    <file name="162.jpg" crc="4095731524" seo="true" ref="galería"/>
+    <file name="20.jpg" crc="3923524354" seo="true" ref="galería"/>
+    <file name="232.jpg" crc="3844900606" seo="true" ref="galería"/>
+    <file name="533.jpg" crc="113477944" seo="true" ref="galería"/>
+    <file name="612.jpg" crc="81683023" seo="true" ref="galería"/>
+    <file name="67.jpg" crc="161928278" seo="true" ref="galería"/>
+    <file name="692.jpg" crc="4250666172" seo="true" ref="galería"/>
+    <file name="712.jpg" crc="4260654681" seo="true" ref="galería"/>
+    <file name="722.jpg" crc="3874618717" seo="true" ref="galería"/>
+    <file name="76.jpg" crc="106823936" seo="true" ref="galería"/>
+    <file name="78.jpg" crc="420386100" seo="true" ref="galería"/>
+    <file name="792.jpg" crc="376049694" seo="true" ref="galería"/>
+    <file name="802.jpg" crc="399190960" seo="true" ref="galería"/>
+    <file name="892.jpg" crc="241996401" seo="true" ref="galería"/>
+    <file name="94.jpg" crc="247273061" seo="true" ref="galería"/>
+    <file name="95.jpg" crc="4205465083" seo="true" ref="galería"/>
+    <file name="992.jpg" crc="3854545299" seo="true" ref="galería"/>
+    <file name="100.jpg" crc="4178048533" seo="true" ref="galería"/>
+    <file name="1022.jpg" crc="364619034" seo="true" ref="galería"/>
+    <file name="104.jpg" crc="4040662639" seo="true" ref="galería"/>
+    <file name="1111x74.jpg" crc="3982117063" seo="true" ref="galería"/>
+    <file name="2111x742.jpg" crc="262951928" seo="true" ref="galería"/>
+    <file name="3111x74.jpg" crc="3775336383" seo="true" ref="galería"/>
+    <file name="4111x742.jpg" crc="4247786440" seo="true" ref="galería"/>
+    <file name="5111x742.jpg" crc="4097729915" seo="true" ref="galería"/>
+    <file name="10111x742.jpg" crc="161948255" seo="true" ref="galería"/>
+    <file name="16-crop-u38495.jpg" crc="4224534159" ref="galería"/>
+    <file name="20111x74.jpg" crc="4255438635" seo="true" ref="galería"/>
+    <file name="23111x742.jpg" crc="4149222279" seo="true" ref="galería"/>
+    <file name="53111x74.jpg" crc="96356249" seo="true" ref="galería"/>
+    <file name="61111x74.jpg" crc="158476943" seo="true" ref="galería"/>
+    <file name="67111x74.jpg" crc="355115729" seo="true" ref="galería"/>
+    <file name="69111x74.jpg" crc="3843509434" seo="true" ref="galería"/>
+    <file name="71111x74.jpg" crc="370619648" seo="true" ref="galería"/>
+    <file name="72111x74.jpg" crc="4178940463" seo="true" ref="galería"/>
+    <file name="76111x74.jpg" crc="4128925534" seo="true" ref="galería"/>
+    <file name="78111x74.jpg" crc="3891286907" seo="true" ref="galería"/>
+    <file name="79111x74.jpg" crc="4227730370" seo="true" ref="galería"/>
+    <file name="80111x74.jpg" crc="330599564" seo="true" ref="galería"/>
+    <file name="89111x74.jpg" crc="501225425" seo="true" ref="galería"/>
+    <file name="94111x74.jpg" crc="437651600" seo="true" ref="galería"/>
+    <file name="95111x74.jpg" crc="247553810" seo="true" ref="galería"/>
+    <file name="99111x74.jpg" crc="237140743" seo="true" ref="galería"/>
+    <file name="100111x74.jpg" crc="3927186862" seo="true" ref="galería"/>
+    <file name="102111x84.jpg" crc="4069927098" seo="true" ref="galería"/>
+    <file name="104130x73.jpg" crc="3939992579" seo="true" ref="galería"/>
+    <file name="u41502-6.png" crc="500104007" ref="galería"/>
+    <file name="u42851-6.png" crc="4153395621" ref="galería"/>
+    <file name="14718705_1176007152481544_555851673946232307_n.jpg" crc="488070608" seo="true" ref="galería"/>
+  </folder>
+  <file name="index.html" crc="259106440" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="sobre-nosotros.html" crc="105624377" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="equipo.html" crc="478763401" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="marca-la-diferencia.html" crc="4079078881" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="mateo-kingman---identidad-y-creación-latinoamericana.html" crc="199329147" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="miembros.html" crc="5097724" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="proyectos.html" crc="3940789796" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="historia.html" crc="199078395" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="gestión.html" crc="4193691672" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="galería.html" crc="4096337036" seo="true" mt="1477248087953" redirect="true"/>
+  <file name="semana-de-la-innovación-social.html" crc="3897868854" seo="true" mt="1477248087953" redirect="true"/>
+</manifest>
